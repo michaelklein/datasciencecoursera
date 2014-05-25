@@ -1,10 +1,10 @@
 ## Code Book
 
-* These variables were added during the processing of the data
+## These variables were added during the processing of the data
 1. activity - This is activity that was measured.  One of WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING
 2. subject - This is the subject who performed the activity.  Values range from 1 - 30.
 
-* These variables are measurements that come from the original data.  No description was provided, but each contains the mean value of the original measurement for each activity/subject.
+## These variables are measurements that come from the original data.  No description was provided, but each contains the mean value of the original measurement for each activity/subject.
 3. tBodyAcc-mean()-X
 4. tBodyAcc-mean()-Y
 5. tBodyAcc-mean()-Z
